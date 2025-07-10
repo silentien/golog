@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/a040951d-c7a3-48c0-95f8-bab3cc46e17b" />
+
 # Silentien - Golog
 
 A simple and efficient logging library for Go, designed to be lightweight, easy to use and configurable.
